@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955687000882",
+    "project_id": "brtodo",
+    "storage_bucket": "brtodo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955687000882:android:0f576f9e572242e278952b",
+        "android_client_info": {
+          "package_name": "br.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8E4jEwu819RvGytH9miI1VySXxGv4mLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
